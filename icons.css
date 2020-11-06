@@ -1,0 +1,4 @@
+.icon-menu::after{
+    content: '\f0c9';
+    font-weight: 900;
+}
